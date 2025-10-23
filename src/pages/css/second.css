@@ -1,0 +1,21 @@
+.custom-table .ant-table-thead > tr > th {
+    background-color: #2d4373;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.action-buttons a {
+    margin-right: 8px; /* Space between buttons */
+}
+.gray-row {
+    background-color: #f0f0f0; /* Light gray */
+}
+
+.white-row {
+    background-color: #ffffff; /* White */
+}
+.hr_sec{
+    width: 100%;
+    border: 1px solid lightgray;
+}

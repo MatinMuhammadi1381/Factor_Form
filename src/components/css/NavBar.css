@@ -1,0 +1,8 @@
+.custom-input ::placeholder {
+    color: white;
+    padding-left: 10px;
+    
+}
+.hr_nav{
+    border: 1px solid #242b53;
+}
