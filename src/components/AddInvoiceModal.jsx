@@ -9,7 +9,7 @@ const AddInvoiceModal = ({ isVisible, onClose }) => {
     return (
         <ConfigProvider direction='rtl'><Modal
             className='custom-modal'
-            visible={isVisible}
+            open={isVisible}
             onCancel={onClose}
             footer={null}
             width="80%"

@@ -4,6 +4,20 @@
 
 A React-based invoice and company receipt interface prototype. The project focuses on a structured, Persian-friendly business form with navigation, invoice fields, product rows, discounts, payment options, and a dashboard-style layout.
 
+## Screenshots
+
+**Invoice overview · نمای فهرست فاکتورها** (sample rows are blurred)
+
+![Invoice overview](docs/screenshots/invoice-list.png)
+
+**Create an invoice · ثبت فاکتور**
+
+![Create an invoice](docs/screenshots/create-invoice.png)
+
+**Invoice line items and payment · جزئیات کالا و پرداخت**
+
+![Invoice line items and payment](docs/screenshots/invoice-form-details.png)
+
 ## Features
 
 - Layout with navigation bar and sidebar
